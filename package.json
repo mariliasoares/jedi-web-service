@@ -1,0 +1,27 @@
+{
+  "name": "jedi",
+  "version": "1.0.0",
+  "description": "Sistema para gerenciamento de cadastro de projetos do grupo Jedi Inc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariliasoares/jedi-inc.git"
+  },
+  "keywords": [
+    "crud"
+  ],
+  "author": "Marilia Soares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariliasoares/jedi-inc/issues"
+  },
+  "homepage": "https://github.com/mariliasoares/jedi-inc#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
